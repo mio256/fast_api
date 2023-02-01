@@ -1,14 +1,14 @@
-# python_base
+# fast_api
 
 ![mio256](https://avatars.githubusercontent.com/u/71450182)
 
 ## Overview
 
-python_base for python repo
+fastAPI tutorial
 
 ## Requirement
 
-./requirements.txt
+[requirements](./requirements.txt)
 
 ## Usage
 
@@ -17,13 +17,9 @@ $ sh setup.sh
 $ . ./venv/bin/activate
 ```
 
-## Features
-
-- fast to make python repo
-
 ## Reference
 
-.README.md
+https://fastapi.tiangolo.com/ja/tutorial/
 
 ## Author
 
