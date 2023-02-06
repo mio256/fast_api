@@ -13,8 +13,7 @@ fastAPI tutorial
 ## Usage
 
 ```sh
-$ sh setup.sh
-$ . ./venv/bin/activate
+$ uvicorn main:app --reload
 ```
 
 ## Reference
